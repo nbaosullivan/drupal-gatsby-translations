@@ -1,2 +1,7 @@
 /drupal/vendor/
 /drupal/.ddev/
+
+/drupal/web/core/
+/drupal/web/modules/contrib/
+/drupal/web/themes/contrib/
+/drupal/web/profiles/contrib/
